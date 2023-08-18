@@ -99,7 +99,7 @@ svg {
     }
 }
 
-@media (max-width:480px) {
+@media (max-width:650px) {
     #header {
         text-align: center;
     }
